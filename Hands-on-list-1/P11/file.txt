@@ -1,0 +1,6 @@
+dup() original fd
+dup() duplicate fd
+dup2() original fd
+dup2() duplicate fd
+fcntl() original fd
+fcntl() duplicate fd
